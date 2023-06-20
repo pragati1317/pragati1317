@@ -1,4 +1,4 @@
-## Hi I'm Pragati Gupta👋
+## Hi, I'm Pragati Gupta👋
 ### About me ⚡
 <!--
 **pragati1317/pragati1317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
