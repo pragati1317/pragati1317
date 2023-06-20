@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 👨‍💻[Portfolio](https://thriving-lollipop-a1ec34.netlify.app/)
 🙌[Linked In](https://www.linkedin.com/in/pragati-gupta-700321211/)
-✨ Leetcode(https://leetcode.com/pragati1317/)
-💬 Gmail('pggupta1317@gmail.com')
+✨ [Leetcode](https://leetcode.com/pragati1317/)
+💬 [Gmail]('pggupta1317@gmail.com')
