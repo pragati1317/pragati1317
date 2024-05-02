@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently pursuing Btech in Computer Science from SGSITS ,Indore
-- I'm currently working to Improve Myshelf in problem solving.
+- I'm currently pursuing BTech in Computer Science from SGSITS ,Indore
+- I'm currently working to improve myself in Problem Solving.
 - I'm also learning new technologies.
-- I’m looking to collaborate on making Some WebPages/WebApp
+- I’m looking to collaborate on making some WebPages/WebApp
 
 ### Important Links
 
