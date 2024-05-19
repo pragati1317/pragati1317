@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Important Links
 
-👨‍💻[Portfolio](https://thriving-lollipop-a1ec34.netlify.app/)
+👨‍💻[Portfolio](https://pragati1317.github.io/Portfolio/)
 🙌[Linked In](https://www.linkedin.com/in/pragati-gupta-700321211/)
 ✨ [Leetcode](https://leetcode.com/pragati1317/)
 💬 [Gmail]('pggupta1317@gmail.com')
