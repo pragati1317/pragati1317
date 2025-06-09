@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently pursuing BTech in Computer Science from SGSITS ,Indore
+- I'm Currently working as a Associate software engineer at Rakuten symphony.
+  Gained experience in backend development and Apache Spark and deployment.
+- I'm Graduated with Bachelors in technology with specialization of Computer Science from SGSITS ,Indore
 - I'm currently working to improve myself in Problem Solving.
 - I'm also learning new technologies.
-- I’m looking to collaborate on making some WebPages/WebApp
+- I’m looking to collaborate on making some AI based usecases and solutions for real world problems.
 
 ### Important Links
 
